@@ -1,0 +1,2 @@
+To start server in api - backend
+==>  npx nodemon@latest server.js
